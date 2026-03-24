@@ -1,0 +1,5 @@
+(define  (sht)
+  (or (makernote:1)
+      (set marker:0))
+  (global-setterscomponents))
+(scale  1.0 1.0)
